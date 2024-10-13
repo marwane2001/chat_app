@@ -1,0 +1,34 @@
+# Flutter/Dart/Pub stuff:
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+pubspec.lock
+
+# Android stuff:
+android/.gradle/
+android/.idea/
+android/local.properties
+
+# iOS stuff:
+ios/Flutter/.generated/
+ios/Flutter/App.framework
+ios/Flutter/ephemeral/
+
+# macOS stuff:
+macos/Flutter/ephemeral/
+
+# Linux stuff:
+linux/Flutter/ephemeral/
+
+# Web stuff:
+web/.dart_tool/
+
+# Windows stuff:
+windows/Flutter/ephemeral/
+
+# Miscellaneous:
+*.iml
+.idea/
+*.lock
